@@ -1,0 +1,16 @@
+{
+  "name": "pix-creator",
+  "version": "0.1.0",
+  "description": "Crear, leer, editar y verificar proyectos PIX RPA (.pix) desde Claude Code: servidor MCP pix-gen, herramientas extra (selectores, Excel, migración UiPath), skills y hooks de protección.",
+  "author": {
+    "name": "PIX Robotics"
+  },
+  "keywords": [
+    "pix",
+    "rpa",
+    "mcp",
+    "pix-studio"
+  ],
+  "homepage": "https://github.com/pixrobotics-dev/pix-creator",
+  "repository": "https://github.com/pixrobotics-dev/pix-creator"
+}

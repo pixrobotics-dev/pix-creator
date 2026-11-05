@@ -1,0 +1,14 @@
+{
+  "name": "pix-robotics",
+  "owner": {
+    "name": "PIX Robotics"
+  },
+  "plugins": [
+    {
+      "name": "pix-creator",
+      "source": "./pix-creator",
+      "description": "Proyectos PIX RPA desde Claude Code: generador, selectores, Excel y migración UiPath."
+    }
+  ],
+  "description": "Herramientas de PIX RPA para Claude Code"
+}

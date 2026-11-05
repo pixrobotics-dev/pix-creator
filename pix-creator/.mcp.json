@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "pix-gen": {
+      "type": "stdio",
+      "command": "${CLAUDE_PLUGIN_ROOT}/backend/pix_genMCP.exe",
+      "args": []
+    },
+    "pix-extras": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/extras/dist/server.mjs"]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pix-creator-extras",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Herramientas MCP extra de PIX para Claude Code: capture_selector, excel, analyze_uipath, approve_migration",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.29.0",
+    "fast-xml-parser": "5.2.5",
+    "xlsx-populate": "1.21.0",
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.0"
+  },
+  "scripts": {
+    "build": "esbuild server.mjs --bundle --platform=node --format=esm --target=node20 --outfile=dist/server.mjs --banner:js=\"import { createRequire as __cr } from 'node:module'; const require = __cr(import.meta.url);\" --log-level=warning"
+  }
+}

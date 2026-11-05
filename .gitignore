@@ -1,0 +1,22 @@
+node_modules/
+*.zip
+
+# Secretos y credenciales: nunca se suben
+.env
+.env.*
+.npmrc
+.netrc
+*.pem
+*.key
+*.pfx
+*.p12
+*.jks
+*.lic
+*credentials*
+*secret*.json
+settings.local.json
+
+# Basura del sistema y logs
+.DS_Store
+Thumbs.db
+*.log

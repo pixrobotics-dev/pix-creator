@@ -1,0 +1,7 @@
+* text=auto
+*.exe binary
+*.dll binary
+*.zip binary
+*.mjs text eol=lf
+*.json text eol=lf
+*.md text eol=lf

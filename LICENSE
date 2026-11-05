@@ -1,0 +1,7 @@
+Copyright (c) 2026 PIX Robotics. Todos los derechos reservados.
+
+Este software se proporciona para su uso con los productos de PIX Robotics. No se concede ninguna
+licencia de código abierto. Los binarios de pix-creator/backend/ son software de PIX Robotics.
+
+Las dependencias de código abierto que incluye el servidor pix-extras se distribuyen bajo sus
+propias licencias, listadas en THIRD-PARTY-NOTICES.md.
