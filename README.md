@@ -1,5 +1,7 @@
 # PIX Creator para Claude Code
 
+[English](README.en.md) | **Español**
+
 Plugin de [Claude Code](https://code.claude.com) para **crear, leer, editar y verificar proyectos de PIX RPA** (`.pix`) conversando con Claude, sin instalar PIX CLI. Después abres el proyecto en **PIX Studio** y lo ejecutas.
 
 Versión actual: **0.1.0**. Historial en [CHANGELOG.md](CHANGELOG.md).

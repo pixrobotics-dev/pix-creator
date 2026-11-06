@@ -1,5 +1,7 @@
 # Instalar pix-creator con la ayuda de Claude Code
 
+[English](INSTALL-WITH-CLAUDE.md) | **Español**
+
 Pega este prompt en una sesión de Claude Code. Claude verificará tu equipo contra los [requisitos del README](../README.md#requisitos-del-equipo) antes de instalar.
 
 ```text
